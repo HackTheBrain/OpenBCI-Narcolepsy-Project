@@ -60,11 +60,11 @@ Example interfaces are:
 
 ## Additional information on processing data with BAT:
 
-1) Store the sample next to the previous ones (cache)
-2) Filter out the noise (7-13hz, bandpass)
-3) Compare the sample from the previous ones
-4) Calculate if the last couple samples exceed a threshold
-5) Notify the user (in case it's falling asleep)
+- Store the sample next to the previous ones (cache)
+- Filter out the noise (7-13hz, bandpass)
+- Compare the sample from the previous ones
+- Calculate if the last couple samples exceed a threshold
+- Notify the user (in case it's falling asleep)
 
 ## References
 Ahmed, I. and Thorpy, M. (2010). Clinical Features, Diagnosis and Treatment of Narcolepsy. Clinics in Chest Medicine, 31(2), pp.371-381. Cbr.nl. (2016). CBR | epilepsie. [online] Available at: https://www.cbr.nl/11468.pp? [Accessed 26 Jun. 2016].
