@@ -3,7 +3,7 @@ BAT (Brain AssistanT) is there for you to provide predictive insight into epilep
 
 ![image mockup](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.55.20%20a.m..png)
 
-# Why
+## Why
 We were aiming to make a multimodal, integrative measurement tool of physiological signals that can have a wide application in today´s society. As part of this project we came up with the idea that, in case of an undiagnosed illness, physicians would preferably have as much data as possible that can help them make a correct diagnosis. Instead of restricting a person´s movement by letting them reside in a hospital bed, our aim was to make this entire process mobile.
 Additionally, the idea was to integrate this into a wearable, which would disguise the measurement equipment and to prevent stigmatization due to your appearance.
 
@@ -17,7 +17,7 @@ The wearable that we are planning to use is a cap integrated with electrodes, to
 
 Additionally, muscle tension has been shown to decrease during sleep. Our device will also have an EMG capability to measure the muscle tension of the patient and to ensure that, in case of loss of this muscle tension, a signal is being sent to the device and appropriate action can be taken.
 
-WHAT
+##What
 What are we creating?
 BAT (Brain AssistanT) is there for you to provide predictive insight into epileptic
 and narcoleptic events. With our open API you will be able to connect to an
@@ -36,9 +36,7 @@ Those signals, translated into actionable and meaningful information can be
 used to inform and, most important of all, protect the user and it's surroundings.
 But how can we translate data to meaningful information?
 
-
-## What
-*What are we Creating?* BAT (Brain AssistanT) is there for you to provide predictive insight into epileptic and narcoleptic events. With our open API you will be able to connect to an ecosystem of apps and services that integrate with BAT to offer new, customized experiences.
+BAT (Brain AssistanT) is there for you to provide predictive insight into epileptic and narcoleptic events. With our open API you will be able to connect to an ecosystem of apps and services that integrate with BAT to offer new, customized experiences.
 
 BAT will look into measuring the following channels:
 
@@ -71,6 +69,14 @@ Example interfaces are:
 - Compare the sample from the previous ones
 - Calculate if the last couple samples exceed a threshold
 - Notify the user (in case it's falling asleep)
+
+![image2](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.50.13%20a.m..png)
+
+![image3](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.50.22%20a.m..png)
+
+![image4](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.50.33%20a.m..png)
+
+![image5](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.50.42%20a.m..png)
 
 ## References
 Ahmed, I. and Thorpy, M. (2010). Clinical Features, Diagnosis and Treatment of Narcolepsy. Clinics in Chest Medicine, 31(2), pp.371-381. Cbr.nl. (2016). CBR | epilepsie. [online] Available at: https://www.cbr.nl/11468.pp? [Accessed 26 Jun. 2016].
