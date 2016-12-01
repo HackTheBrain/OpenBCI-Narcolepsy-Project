@@ -1,7 +1,7 @@
 # OpenBCI Narcolepsy / BAT
 BAT (Brain AssistanT) is there for you to provide predictive insight into epileptic and narcoleptic events. With our open API you will be able to connect to an ecosystem of apps and services that integrate with BAT to offer new, customized experiences. Version 1.0 of BAT was made my Team MobGem lab, 26th June 2016.
 
-[image mockup](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.55.20%20a.m..png)
+![image mockup](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.55.20%20a.m..png)
 
 # Why
 We were aiming to make a multimodal, integrative measurement tool of physiological signals that can have a wide application in today´s society. As part of this project we came up with the idea that, in case of an undiagnosed illness, physicians would preferably have as much data as possible that can help them make a correct diagnosis. Instead of restricting a person´s movement by letting them reside in a hospital bed, our aim was to make this entire process mobile.
@@ -13,6 +13,8 @@ This device can be applicable to a broad target audience. There are an estimated
 
 The wearable that we are planning to use is a cap integrated with electrodes, to measure alpha waves (8-12 Hz) from the occipital lobe, as has been used before by Tsai et al. (2009) to measure drowsiness in drivers. Alpha waves registered from EEG equipment are associated with concentration and BAT, your digital brain assistant 3 relaxation and in case a person closes his/her eyes, it shows a peak in the alpha spectrum.
 
+![cap](https://github.com/HackTheBrain/openbci-narcolepsy/blob/master/images/Schermafbeelding%202016-12-01%20om%2012.50.02%20a.m..png)
+
 Additionally, muscle tension has been shown to decrease during sleep. Our device will also have an EMG capability to measure the muscle tension of the patient and to ensure that, in case of loss of this muscle tension, a signal is being sent to the device and appropriate action can be taken.
 
 WHAT
@@ -22,9 +24,11 @@ and narcoleptic events. With our open API you will be able to connect to an
 ecosystem of apps and services that integrate with BAT to offer new, customized
 experiences.
 BAT will look into measuring the following channels:
+
 - Alpha Waves
 - Muscle Tension
 - Heart Rate
+
 When signals of an epileptic or narcoleptic event are being detected, BAT will
 send out a notification towards the user. The notification will be linked towards
 an action, which is related to the interface of the user.
