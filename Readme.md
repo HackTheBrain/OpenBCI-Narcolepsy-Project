@@ -97,3 +97,6 @@ Tsai, Pai-Yuan, et al. "A portable device for real time drowsiness detection usi
 
 Wallace H, Shorvon S, Tallis R.Age-specific incidence and prevalence rates of treated epilepsy in an unselected population of 2,052,922 and age-specific fertility rates of women with epilepsy [see comments]. Lancet, 1998; 352(9145):
 1970-1973.
+
+## Video on Project BAT:
+[![Video image](http://handledmovie.com/get/player01.gif)](https://vimeo.com/177943252)
